@@ -1,0 +1,51 @@
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+th[scope="col"] {
+    background-color: lightgrey;
+    color: #fff;
+    align-items: center;
+    cursor: pointer;
+    color: black;
+}
+
+td {
+    text-align: center;
+    padding: 1em;
+}
+
+tr: nth-child (even) {
+    background-color: #eee;
+    text-align: center;
+}
+
+table {
+    letter-spacing: 4px;
+    align-items: center;
+}
+body {
+    background-color: lightgreen;
+}
+td,
+th {
+    padding: 20px;
+}
+.red {
+  color: #f33;
+}
+.t39 {
+	background-color: pink !important;
+} 
+.a12 {
+	background-color: orange !important;
+}
+.a11 {
+	background-color: cyan !important;
+}
+.a10 {
+	background-color: lightgreen !important
+}
